@@ -12,6 +12,8 @@ Desenvolvido durante o curso de criação de testes com Jeste e Testing Library 
 
 - `React`
 - `Create React App`
+- `Jest`
+- `Testing Library`
 - `GitHub`
 
 E muito mais!
